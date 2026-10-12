@@ -1,0 +1,61 @@
+# Stijn Dormans
+**Ingénieur logiciel backend .NET** | 7 ans d'expérience
+
+linkedin.com/in/stijndormans | Paris, France
+
+---
+
+## Profil
+
+Ingénieur logiciel backend .NET avec 7 ans d'expérience pratique dans la conception et la maintenance d'applications en production en **C#, ASP.NET Core, SQL Server et Azure**. Habitué à travailler de manière autonome et à porter les fonctionnalités de bout en bout, tout en accompagnant mes collègues par des conseils et des revues de code. Pratique solide des tests unitaires, de l'architecture multicouche, des principes SOLID et du développement d'API RESTful en environnement Agile (certifié PSM1). Ouvert aux postes à Paris et en télétravail.
+
+## Compétences techniques
+
+| Domaine | Technologies |
+|---|---|
+| **Langages** | C#, SQL, PowerShell, Python, TypeScript, JavaScript, HTML5/CSS |
+| **.NET** | .NET Core / .NET 5+, ASP.NET Core Web API, ASP.NET MVC, Entity Framework |
+| **Bases de données** | SQL Server (modélisation, requêtes avancées, procédures stockées, fonctions) |
+| **Tests** | NUnit, xUnit |
+| **Cloud & DevOps** | Azure (Blob Storage, Functions, Automation), Azure DevOps, Git, CI/CD (tâches planifiées et pipelines simples) |
+| **Frontend** | Angular 18, Bootstrap |
+| **Outils** | Postman, Active Directory, Markdown |
+| **Méthodes** | Agile / Scrum, REST, POO, SOLID, architecture multicouche |
+
+## Expérience professionnelle
+
+### Ingénieur logiciel, 2DA (Nimègue, Pays-Bas)
+*2020 – Présent*
+
+- Conception, développement et maintenance d'applications .NET (C#) utilisées dans les opérations quotidiennes, en prenant en charge les fonctionnalités de la conception à la livraison.
+- Développement d'une application console .NET qui traite automatiquement les e-mails entrants (~30 par jour) et génère des codes de réponse uniques : réduction des délais de traitement et meilleure fiabilité.
+- Mise en place de tests unitaires avec NUnit (14 tests, ~80 % de couverture sur l'application) pour améliorer la stabilité et la qualité du code ; utilisation de xUnit sur plusieurs projets.
+- Automatisation de workflows métier avec PowerShell et des tâches planifiées Azure Functions : moins de tâches manuelles et d'erreurs opérationnelles.
+- Participation à un projet LLM interne : collecte et analyse de données pour améliorer la qualité des données et les processus de numérisation.
+- Rédaction de documentation technique en Markdown pour faciliter l'onboarding et le partage des connaissances ; conseil régulier auprès des collègues.
+
+**Administrateur systèmes IT (détachement chez OPEN32)** | *2023 – 2024*
+
+- Détaché de 2DA pour assurer le support IT niveaux 1 et 2 en environnement de production.
+- Automatisation de tâches récurrentes avec PowerShell et Azure Automation.
+- Gestion des utilisateurs, groupes et permissions dans Active Directory.
+- Participation au déploiement d'un système POS et à l'optimisation réseau d'un centre logistique.
+
+### Ingénieur logiciel, Bee-ldeas
+*2019 – 2020*
+
+- Développement et maintenance d'une API Web ASP.NET en architecture multicouche.
+- Mise en place d'Azure Blob Storage pour une gestion de fichiers évolutive.
+- Conception et optimisation de bases de données SQL Server (modélisation, fonctions, procédures stockées).
+- Rédaction de tests unitaires avec xUnit et réalisation de revues de code.
+- Scrum Master temporaire : daily meetings, sprint planning, rétrospectives.
+
+## Formation & certifications
+
+- **Professional Scrum Master I (PSM1)**, Scrum.org
+- **Études de droit**, première année (propédeutique) validée
+- **Diplôme VWO**, Sciences & Nature + Économie (enseignement pré-universitaire néerlandais)
+
+## Langues
+
+Néerlandais (langue maternelle) · Anglais (professionnel) · Français (intermédiaire, en apprentissage actif)

@@ -1,0 +1,61 @@
+# Stijn Dormans
+**Backend .NET Software Engineer** | 7 years of experience
+
+linkedin.com/in/stijndormans | Paris, France
+
+---
+
+## Profile
+
+Backend-focused .NET software engineer with 7 years of hands-on experience building and maintaining production applications in **C#, ASP.NET Core, SQL Server and Azure**. Used to working autonomously and owning features end to end, while supporting colleagues with advice and code reviews. Solid practice in unit testing, layered architecture, SOLID principles and RESTful API design in Agile teams (PSM1 certified). Open to roles in Paris and remote.
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | C#, SQL, PowerShell, Python, TypeScript, JavaScript, HTML5/CSS |
+| **.NET** | .NET Core / .NET 5+, ASP.NET Core Web API, ASP.NET MVC, Entity Framework |
+| **Databases** | SQL Server (data modelling, advanced queries, stored procedures, functions) |
+| **Testing** | NUnit, xUnit |
+| **Cloud & DevOps** | Azure (Blob Storage, Functions, Automation), Azure DevOps, Git, CI/CD (scheduled tasks and basic pipelines) |
+| **Frontend** | Angular 18, Bootstrap |
+| **Tools** | Postman, Active Directory, Markdown |
+| **Methods** | Agile / Scrum, REST, OOP, SOLID, layered architecture |
+
+## Experience
+
+### Software Engineer, 2DA (Nijmegen, NL)
+*2020 – Present*
+
+- Design, build and maintain .NET (C#) applications supporting daily operations, owning features from design to delivery.
+- Built a .NET console application that automatically processes incoming e-mails (~30 per day) and generates unique reply codes, reducing handling time and improving reliability.
+- Introduced unit testing with NUnit (14 tests, ~80% coverage on the application), improving stability and code quality; also used xUnit on several projects.
+- Automated business workflows with PowerShell and Azure Functions scheduled tasks, reducing manual work and operational errors.
+- Contributed to an internal LLM project: collected and analysed data to improve data quality and digitisation processes.
+- Wrote technical documentation in Markdown to improve onboarding and knowledge sharing; regularly advised colleagues on technical questions.
+
+**IT Systems Administrator (secondment to OPEN32)** | *2023 – 2024*
+
+- Seconded from 2DA to provide first- and second-line IT support in a production environment.
+- Automated recurring tasks with PowerShell and Azure Automation.
+- Managed users, groups and permissions in Active Directory.
+- Helped deploy a POS system and optimise the network at a logistics centre.
+
+### Software Engineer, Bee-ldeas
+*2019 – 2020*
+
+- Developed and maintained an ASP.NET Web API with a layered architecture.
+- Implemented Azure Blob Storage for scalable file management.
+- Designed and optimised SQL Server databases (modelling, functions, stored procedures).
+- Wrote unit tests with xUnit and performed code reviews.
+- Temporary Scrum Master: daily stand-ups, sprint planning and retrospectives.
+
+## Education & Certifications
+
+- **Professional Scrum Master I (PSM1)**, Scrum.org
+- **Law studies**, first year (Propedeuse) completed
+- **VWO diploma**, Nature & Health + Economics (Dutch pre-university education)
+
+## Languages
+
+Dutch (native) · English (professional) · French (intermediate, actively improving)
